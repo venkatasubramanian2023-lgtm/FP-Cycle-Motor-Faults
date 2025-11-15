@@ -41,7 +41,7 @@ The concept from this paper inspired the idea of feature-preserving GAN-based au
 
 Demo Video
 
-YouTube Link: (to be added)
+YouTube Link: https://youtu.be/-k8YXcjTFY0
 
 ---
 
